@@ -1,0 +1,31 @@
+﻿<Window x:Class="Ekzamen_Palkin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ekzamen_Palkin"
+        mc:Ignorable="d"
+        Title="Расчет оплаты" Height="450" Width="416">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Тариф: " HorizontalAlignment="Left" VerticalAlignment="Center" Width="100" Margin="57,0,0,0" Grid.Row="1"/>
+        <Label Content="Колво минут: " HorizontalAlignment="Center" VerticalAlignment="Center" Width="100"/>
+        <Button x:Name="btnWord" IsEnabled="False" Content="Распечатать" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="22" Width="100" Click="btnWord_Click"/>
+        <Button Content="Рассчитать" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="22" Width="100" Grid.Column="1" Click="Button_Click"/>
+        <Label Content="К оплате: " x:Name="lbPay" HorizontalAlignment="Left" Margin="54,0,0,0" Grid.Row="3" VerticalAlignment="Center"/>
+        <Label Content="Лишние минуты: " x:Name="lbMinutes" HorizontalAlignment="Left" Margin="54,0,0,0" Grid.Row="4" VerticalAlignment="Center"/>
+        <ComboBox Grid.Column="1" x:Name="cmbTariff" HorizontalAlignment="Center" Margin="0,34,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+        <TextBox Grid.Column="1" x:Name="txtMinutes" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="120" PreviewTextInput="txtMinutes_PreviewTextInput"/>
+
+    </Grid>
+</Window>

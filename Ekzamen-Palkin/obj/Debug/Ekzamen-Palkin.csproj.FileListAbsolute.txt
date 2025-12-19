@@ -1,0 +1,15 @@
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\bin\Debug\Ekzamen-Palkin.exe.config
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\bin\Debug\Ekzamen-Palkin.exe
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\bin\Debug\Ekzamen-Palkin.pdb
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\Ekzamen-Palkin.csproj.AssemblyReference.cache
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\MainWindow.g.cs
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\App.g.cs
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\Ekzamen-Palkin_MarkupCompile.cache
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\Ekzamen-Palkin_MarkupCompile.lref
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\MainWindow.baml
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\Ekzamen-Palkin.g.resources
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\Ekzamen_Palkin.Properties.Resources.resources
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\Ekzamen-Palkin.csproj.GenerateResource.cache
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\Ekzamen-Palkin.csproj.CoreCompileInputs.cache
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\Ekzamen-Palkin.exe
+D:\учеба\projects C#\Ekzamen-Palkin\Ekzamen-Palkin\obj\Debug\Ekzamen-Palkin.pdb
